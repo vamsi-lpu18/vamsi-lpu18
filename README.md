@@ -21,6 +21,18 @@
 
 ###
 
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/vamsi_19?theme=dark&font=baloo&ext=heatmap" alt="leetcode stats" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://geeks-for-geeks-stats.vercel.app/api?userName=vamsi1l1kq&theme=dark" alt="geeksforgeeks stats" />
+</div>
+
+###
+
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
 ###
@@ -32,7 +44,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="tailwindcss logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindcss logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
   <img width="12" />
@@ -52,13 +64,24 @@
   <a href="mailto:vamsi@example.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
+  <a href="https://leetcode.com/u/vamsi_19/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="35" alt="leetcode logo" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/vamsi1l1kq/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="35" alt="geeksforgeeks logo" />
+  </a>
+  <a href="https://www.codechef.com/users/odd_book_13" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="35" alt="codechef logo" />
+  </a>
 </div>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
@@ -100,6 +123,24 @@
 - **Problem Solving**: Data Structures and Algorithms
 - **Tools**: VS Code, Chrome DevTools, Postman
 - **UI/UX**: Responsive Design, Modern Web Design Principles
+
+### 🏅 Coding Profiles
+<div align="center">
+  <img src="https://leetcode-stats-six.vercel.app/api?username=vamsi_19&theme=dark" alt="leetcode stats" />
+</div>
+
+<div align="center">
+  <img src="https://geeks-for-geeks-stats.vercel.app/api?userName=vamsi1l1kq&theme=dark" alt="geeksforgeeks stats" />
+</div>
+
+- **LeetCode**: [vamsi_19](https://leetcode.com/u/vamsi_19/)
+- **GeeksforGeeks**: [vamsi1l1kq](https://www.geeksforgeeks.org/user/vamsi1l1kq/)
+  - **Problems Solved**: 144
+  - **Coding Score**: 537
+  - **Current Streak**: 19 days
+- **CodeChef**: [odd_book_13](https://www.codechef.com/users/odd_book_13)
+  - **Rating**: 873 (1★)
+  - **Problems Solved**: 2
 
 👨‍💻 All of my projects are available at [My GitHub](https://github.com/vamsi-lpu18)
 
