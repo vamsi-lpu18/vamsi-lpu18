@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Vamsi and I'm a Frontend Developer | React Enthusiast | Problem Solver, from India</h2>
+<h2 align="left">Hi 👋! My name is Vamsi and I'm a Frontend Enthusiast | React Enthusiast | Problem Solver, from India</h2>
 
 ###
 
