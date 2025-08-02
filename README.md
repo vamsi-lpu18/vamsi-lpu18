@@ -16,13 +16,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vamsi-lpu18&theme=dark&hide_border=false" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=vamsi-lpu18&theme=dark&hide_border=false" alt="streak stats" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/vamsi_19?theme=dark&font=baloo&ext=heatmap" alt="leetcode stats" />
+  <img src="https://leetcode.card.workers.dev/vamsi_19?theme=dark&font=baloo&extension=heatmap" alt="leetcode stats" />
 </div>
 
 ###
@@ -126,7 +126,7 @@
 
 ### 🏅 Coding Profiles
 <div align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=vamsi_19&theme=dark" alt="leetcode stats" />
+  <img src="https://leetcode-stats.vercel.app/api?username=vamsi_19&theme=dark" alt="leetcode stats" />
 </div>
 
 <div align="center">
