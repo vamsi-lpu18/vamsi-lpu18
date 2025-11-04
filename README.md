@@ -9,26 +9,28 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vamsi-lpu18&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vamsi-lpu18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vamsi-lpu18&show_icons=true&theme=dracula&count_private=true" height="150" alt="GitHub stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vamsi-lpu18&layout=compact&theme=dracula" height="150" alt="Languages graph" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=vamsi-lpu18&theme=dark&hide_border=false" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com?user=vamsi-lpu18&theme=dark&hide_border=false" alt="GitHub streak stats" />
 </div>
 
 ###
 
+<!-- ✅ Working LeetCode Stats -->
 <div align="center">
-  <img src="https://leetcode.card.workers.dev/vamsi_19?theme=dark&font=baloo&extension=heatmap" alt="leetcode stats" />
+  <img src="https://leetcard.jacoblin.cool/vamsi_19?theme=dark&font=baloo&ext=heatmap" alt="LeetCode stats" />
 </div>
 
 ###
 
+<!-- ✅ Working GeeksforGeeks Stats (Alternative Method) -->
 <div align="center">
-  <img src="https://geeks-for-geeks-stats.vercel.app/api?userName=vamsi1l1kq&theme=dark" alt="geeksforgeeks stats" />
+  <img src="https://raw.githubusercontent.com/nikhilpal2705/GeeksForGeeks-Stats-Card/main/cards/vamsi1l1kq.svg" alt="GeeksforGeeks stats" />
 </div>
 
 ###
@@ -59,19 +61,19 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/vamsi-kotamsetti-47b302260/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
   <a href="mailto:vamsi@example.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="35" alt="Gmail logo" />
   </a>
   <a href="https://leetcode.com/u/vamsi_19/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="35" alt="leetcode logo" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="35" alt="LeetCode logo" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/vamsi1l1kq/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="35" alt="geeksforgeeks logo" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="35" alt="GeeksforGeeks logo" />
   </a>
   <a href="https://www.codechef.com/users/odd_book_13" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="35" alt="codechef logo" />
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="35" alt="CodeChef logo" />
   </a>
 </div>
 
@@ -94,56 +96,68 @@
   - **Tech**: React, TypeScript, Vite, Tailwind CSS
   - **Live Demo**: [sparkle-hood.netlify.app](https://sparkle-hood.netlify.app/)
 
+###
+
 ### 🌱 I'm currently learning
 - **React.js**
 - **TypeScript**
 - **Advanced Tailwind CSS**
+
+###
 
 ### 🏆 GitHub Profile Summary
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vamsi-lpu18&theme=github_dark" alt="profile summary" />
 </div>
 
+###
+
 ### 📊 Weekly Development Breakdown
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vamsi-lpu18&theme=github-compact" alt="activity graph" />
 </div>
 
+###
+
 ### 🎯 Currently Working On
-- Building scalable web applications with React and TypeScript
-- Creating modern UI components with Tailwind CSS
-- Contributing to open-source projects
-- Learning advanced React patterns and best practices
+- Building scalable web applications with React and TypeScript  
+- Creating modern UI components with Tailwind CSS  
+- Contributing to open-source projects  
+- Learning advanced React patterns and best practices  
+
+###
 
 ### 📚 Skills & Expertise
-- **Frontend Development**: React, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS
-- **Backend Development**: Node.js, Express.js
-- **Database**: MongoDB
-- **Version Control**: Git, GitHub
-- **Problem Solving**: Data Structures and Algorithms
-- **Tools**: VS Code, Chrome DevTools, Postman
-- **UI/UX**: Responsive Design, Modern Web Design Principles
+- **Frontend Development**: React, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS  
+- **Backend Development**: Node.js, Express.js  
+- **Database**: MongoDB  
+- **Version Control**: Git, GitHub  
+- **Problem Solving**: Data Structures and Algorithms  
+- **Tools**: VS Code, Chrome DevTools, Postman  
+- **UI/UX**: Responsive Design, Modern Web Design Principles  
+
+###
 
 ### 🏅 Coding Profiles
 <div align="center">
-  <img src="https://leetcode-stats.vercel.app/api?username=vamsi_19&theme=dark" alt="leetcode stats" />
+  <img src="https://leetcard.jacoblin.cool/vamsi_19?theme=dark&ext=heatmap" alt="LeetCode stats" />
 </div>
 
 <div align="center">
-  <img src="https://geeks-for-geeks-stats.vercel.app/api?userName=vamsi1l1kq&theme=dark" alt="geeksforgeeks stats" />
+  <img src="https://raw.githubusercontent.com/nikhilpal2705/GeeksForGeeks-Stats-Card/main/cards/vamsi1l1kq.svg" alt="GeeksforGeeks stats" />
 </div>
 
-- **LeetCode**: [vamsi_19](https://leetcode.com/u/vamsi_19/)
-- **GeeksforGeeks**: [vamsi1l1kq](https://www.geeksforgeeks.org/user/vamsi1l1kq/)
-  - **Problems Solved**: 144
-  - **Coding Score**: 537
-  - **Current Streak**: 19 days
-- **CodeChef**: [odd_book_13](https://www.codechef.com/users/odd_book_13)
-  - **Rating**: 873 (1★)
-  - **Problems Solved**: 2
-
-👨‍💻 All of my projects are available at [My GitHub](https://github.com/vamsi-lpu18)
+- **LeetCode**: [vamsi_19](https://leetcode.com/u/vamsi_19/)  
+- **GeeksforGeeks**: [vamsi1l1kq](https://www.geeksforgeeks.org/user/vamsi1l1kq/)  
+  - **Problems Solved**: 144  
+  - **Coding Score**: 537  
+  - **Current Streak**: 19 days  
+- **CodeChef**: [odd_book_13](https://www.codechef.com/users/odd_book_13)  
+  - **Rating**: 873 (1★)  
+  - **Problems Solved**: 2  
 
 ---
+
+👨‍💻 All of my projects are available at [My GitHub](https://github.com/vamsi-lpu18)
 
 ⭐️ From [vamsi-lpu18](https://github.com/vamsi-lpu18)
